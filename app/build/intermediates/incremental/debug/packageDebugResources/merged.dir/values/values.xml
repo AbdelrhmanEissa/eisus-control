@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EISUS Hub</string>
+    <style name="Theme.EisusHub" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B1316</item>
+        <item name="android:statusBarColor">#0B1316</item>
+        <item name="android:navigationBarColor">#0B1316</item>
+    </style>
+</resources>
